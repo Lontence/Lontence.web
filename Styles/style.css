@@ -65,11 +65,11 @@ body {
 }
 @font-face {
     font-family: JostLight;
-    src: url(Fonts/Jost/Jost-Light.ttf);
+    src: url(../Fonts/Jost/Jost-Light.ttf);
 }
 @font-face {
     font-family: JostMed;
-    src: url(Fonts/Jost/Jost-Medium.ttf);
+    src: url(../Fonts/Jost/Jost-Medium.ttf);
 }
 .comingsoon {
     background-color: #6d2391ff;
