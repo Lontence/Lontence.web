@@ -92,12 +92,33 @@ body {
 }
 #bt5 {
     font-family: JostLight;
-    font-weight: 500;
+    font-weight: 200;
     margin-left: 70;
     margin-right: 70;
     text-align: center;
     color: white;
     padding-bottom: 40px;
+}
+#bt6 {
+    font-family: JostMed;
+    font-weight: 500;
+}
+#bt7 {
+    font-family: JostLight;
+    font-weight: 200;
+    margin-left: 70;
+    margin-right: 70;
+    text-align: center;
+    color: white;
+    padding-bottom: 40px;
+    font-size: 28px;
+}
+#bt8 {
+    font-family: JostMed;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+    font-size: 20;
 }
 .butackno {
     margin-left: 15%;
@@ -107,7 +128,7 @@ body {
     padding: 20;
     background-color: #260c32ff;
     font-family: JostLight;
-    font-weight: 500;
+    font-weight: 200;
     text-align: center;
    
 }
@@ -129,4 +150,59 @@ body {
     font-size: 160%;
     color: rgb(185, 185, 185);
     font-size: 19;
+}
+#b1txt {
+    font-family: JostLight;
+    font-weight: 200;
+    text-align: left;
+    font-size: 160%;
+    color: rgb(185, 185, 185);
+    font-size: 15;
+    margin-left: 30;
+}
+#b2txt {
+    font-family: JostMed;
+    font-weight: 500;
+    text-align: left;
+    font-size: 160%;
+    color: rgb(220, 220, 220);
+    font-size: 15;
+    margin-left: 30;
+    margin-top: 10;
+}
+.b1atxt {
+    font-family: JostMed;
+    font-weight: 500;
+    color: rgb(185, 185, 185);
+}
+.bottom {
+    padding: 10;
+    margin: 20px auto 60px;
+    background-color: #260c32ff;
+}
+.butackno2 {
+    color: white;
+}
+#butackno3 {
+    text-align: center;
+    font-weight: 500;
+    font-family: JostMed;
+    font-size: 20px;
+    margin: 50px auto 1px;
+    text-decoration: underline;
+}
+#removed {
+    text-decoration: line-through;
+}
+#b1 {
+    background-color: #260c32ff;
+    margin-bottom: 0;
+}
+#logot1 {
+    background-color: #501a6bff;
+    padding: 70;
+    margin-top: 0;
+}
+#yeee {
+    text-decoration: none;
 }
