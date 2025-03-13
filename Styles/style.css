@@ -7,7 +7,7 @@ body {
     padding-right: 70px;
 }
 .logot {
-    margin: 50px auto 20px;
+    margin: 70px auto 70px;
     display: block;
     width: 230px;
 }
@@ -140,7 +140,7 @@ body {
 }
 .top {
     padding: 10;
-    margin: 20px auto 20px;
+    margin-top: 0;
     background-color: #260c32ff;
 }
 #toptxt {
